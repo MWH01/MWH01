@@ -8,14 +8,13 @@
 - 🎓 Computer Science graduate from Yunnan University  
 - 🔧 Currently building cross-chain DApps using **Solidity + Golang + Ethers.js**
 - 📦 Past experience: Tencent intern, with focus on backend systems and cloud services  
-- 🌍 Prefer working from Kunming/Qujing, love spicy food 🌶️
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Languages**: Java, C++, Solidity, Go, JavaScript  
-- **Frameworks**: React, Hardhat, Web3.js, Wagmi, RainbowKit  
+- **Frameworks**: Gin, Springboot, React, Hardhat, Web3.js, Wagmi, RainbowKit
 - **Tools**: Git, VSCode, Postman, Chrome DevTools  
 - **Blockchain**: Ethereum, Chainlink CCIP, MetaMask integration
 
