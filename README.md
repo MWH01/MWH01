@@ -37,16 +37,3 @@
 - GitHub: [@MWH01](https://github.com/MWH01)
 
 ---
-
-## ❤️ Fun Facts
-
-- 🧠 I believe in balancing main job and side projects to grow sustainably  
-- 🚗 I'm saving up for an SU7 Max, family willing to sponsor ¥60,000 for the down payment  
-- 🥚 My breakfast is 2 eggs + 1 cup of milk, every day, no exception 😄
-
----
-
-<!---
-MWH01/MWH01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
