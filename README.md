@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Wenhao</h1>
-<h3 align="center">A developer exploring Web3, Solidity, and Golang，Java ☕</h3>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Computer Science graduate from Yunnan University  
