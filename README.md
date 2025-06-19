@@ -15,16 +15,6 @@
 
 ---
 
-## 🔭 Projects
-
-- 🧱 [CrossChainDApp](https://github.com/MWH01/CrossChainDApp):  
-  NFT minting & bridging across chains with Chainlink CCIP
-
-- 🔗 Frontend: RainbowKit + Wagmi + ethers.js  
-- 💡 Backend: Hardhat + Solidity smart contracts
-
----
-
 ## 📬 Contact Me
 
 - Email: [1062966353@qq.com](mailto:1062966353@qq.com)  
